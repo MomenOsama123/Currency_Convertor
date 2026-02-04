@@ -21,4 +21,5 @@ This project demonstrates Android UI design using XML, user interactions, and ba
 - Resources (colors, strings, dimens) for styling
 
 ## 📷 Screenshots
-*(Optional: Add screenshots here)*  
+![App Screen](ui.png)
+![App Screen 2](ap_testing.png)
